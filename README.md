@@ -1,56 +1,64 @@
-**AKILA A**
+# 👩‍💻 Akila A – Aspiring Data Analyst
 
-📧 [akilaarulselvam05@gmail.com](mailto:akilaarulselvam05@gmail.com) | 📞 8838253646
+📫 Email: [akilaarulselvam05@gmail.com](mailto:akilaarulselvam05@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/akila-arulselvam-5a0ab826a/) | [GitHub](https://github.com/akill005)
 
 ---
 
-### **SUMMARY**
+## 🌟 About Me
 
-Detail-oriented Data Analyst with hands-on experience in analyzing and visualizing supply chain and product performance data using Power BI, SQL, and Python. Proficient in building interactive dashboards, tracking KPIs, and identifying performance bottlenecks. Passionate about using data storytelling to drive efficiency and optimize business operations.
-
----
-
-### **PROJECT EXPERIENCE**
-
-**Sales Insights Dashboard**
-*Tools: MySQL, Power BI, Power Query*
-**• Developed an interactive sales dashboard by importing and transforming SQL data into Power BI using Power Query.**
-**• Cleaned and modeled data from more than 6 tables to analyze sales KPIs like revenue, profit, customer segments, and product performance.**
-**• Implemented slicers and drill-downs for dynamic and user-driven insights.**
-🔗 [View Project](https://github.com/akill005/Sales-Insights)
-
-**Google Playstore Analysis**
-*Tools: Python (Pandas)*
-**• Performed data cleaning, exploration, and analysis on a dataset of over 10,000 apps.**
-**• Identified patterns in app ratings, installs, and reviews using insightful aggregations.**
-**• Derived actionable insights to support app store optimization and market strategy.**
-🔗 [View Project](https://github.com/akill005/Google-Playstore-analysis)
-
-**Netflix Content Analysis Dashboard**
-*Tools: Power BI, Power Query, DAX*
-**• Designed and developed an interactive Power BI dashboard using a public Netflix dataset of 5000+ titles.**
-**• Explored trends by genre, release year, country, and content type.**
-**• Applied DAX measures and data storytelling to extract insights from real-world streaming data.**
-🔗 [View Project](https://github.com/akill005/Netflix-Dashboard)
+I’m a detail-oriented **Data Analyst** with a passion for transforming raw data into actionable insights. I specialize in **Power BI**, **SQL**, and **Python**, and I enjoy building interactive dashboards, analyzing trends, and solving real-world business problems. I believe in the power of **data storytelling** to drive strategic decisions and operational efficiency.
 
 ---
 
-### **TECHNICAL SKILLS**
+## 🛠️ Technical Skills
 
-**Languages:** Python, C++, C**
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn**
-**Visualization Tools:** Power BI, Microsoft Excel**
-**Databases:** MySQL**
-**Tools & Environment:** Jupyter Notebook, Spyder, GitHub**
-**Concepts:** Data Cleaning, Dashboard Design, DAX, OOPS**
-**Web Development:** HTML, CSS, Bootstrap**
-**Soft Skills:** Communication, Teamwork, Problem Solving**
+- **Languages:** Python, C++, C  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Power BI, Excel, Jupyter Notebook, Spyder, GitHub  
+- **Database:** MySQL  
+- **Concepts:** Data Cleaning, Dashboard Design, DAX, OOP  
+- **Web Development:** HTML, CSS, Bootstrap  
+- **Soft Skills:** Communication, Teamwork, Problem Solving
 
 ---
 
-### **EDUCATION**
+## 📊 Featured Projects
 
-**Bachelor of Engineering in Electronics and Communication Engineering**
-Alagappa Chettiar Government College of Engineering and Technology, Karaikudi
-**CGPA:** 8.51 | **Year:** 2021 – 2025
+### 🔹 [Sales Insights Dashboard](https://github.com/akill005/Sales-Insights)
+**Tools:** MySQL, Power BI, Power Query  
+- Built an interactive dashboard from multi-table SQL data.  
+- Tracked KPIs like revenue, profit, and customer segments.  
+- Used slicers and drill-downs for dynamic reporting.
+
+---
+
+### 🔹 [Google Playstore Analysis](https://github.com/akill005/Google-Playstore-analysis)
+**Tools:** Python (Pandas)  
+- Analyzed 10,000+ app data entries for installs, reviews, ratings.  
+- Identified performance trends and market insights.  
+- Supported strategic targeting with visual EDA.
+
+---
+
+### 🔹 [Netflix Content Analysis Dashboard](https://github.com/akill005/Netflix-Dashboard)
+**Tools:** Power BI, Power Query, DAX  
+- Analyzed 5000+ Netflix titles by genre, release year, country, etc.  
+- Used DAX to create custom KPIs.  
+- Focused on data storytelling and clean UI design.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering – Electronics and Communication Engineering**  
+Alagappa Chettiar Government College of Engineering and Technology, Karaikudi  
+**CGPA:** 8.51 | **Years:** 2021 – 2025
+
+---
+
+## 📬 Let’s Connect
+
+I’m actively seeking internship or entry-level opportunities in data analytics.  
+Feel free to reach out via [email](mailto:akilaarulselvam05@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akila-arulselvam-5a0ab826a/).
+
